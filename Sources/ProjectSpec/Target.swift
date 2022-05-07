@@ -1,6 +1,6 @@
 import Foundation
 import JSONUtilities
-import XcodeProj
+import SwiftXcodeProj
 import Version
 
 public struct LegacyTarget: Equatable {

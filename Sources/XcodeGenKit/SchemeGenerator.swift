@@ -1,6 +1,6 @@
 import Foundation
 import ProjectSpec
-import XcodeProj
+import SwiftXcodeProj
 import PathKit
 
 private func suitableConfig(for type: ConfigType, in project: Project) -> Config {

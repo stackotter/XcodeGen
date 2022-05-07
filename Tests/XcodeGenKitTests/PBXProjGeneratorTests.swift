@@ -2,7 +2,7 @@ import Yams
 import XCTest
 import Spectre
 import PathKit
-import XcodeProj
+import SwiftXcodeProj
 import ProjectSpec
 import XcodeGenKit
 import TestSupport

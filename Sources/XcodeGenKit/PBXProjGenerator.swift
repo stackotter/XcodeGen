@@ -1,7 +1,7 @@
 import Foundation
 import PathKit
 import ProjectSpec
-import XcodeProj
+import SwiftXcodeProj
 import Yams
 import Version
 

@@ -1,7 +1,7 @@
 import Foundation
 import JSONUtilities
 import PathKit
-import XcodeProj
+import SwiftXcodeProj
 
 public typealias BuildType = XCScheme.BuildAction.Entry.BuildFor
 

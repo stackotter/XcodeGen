@@ -65,21 +65,21 @@
         }
       },
       {
+        "package": "SwiftXcodeProj",
+        "repositoryURL": "https://github.com/stackotter/SwiftXcodeProj.git",
+        "state": {
+          "branch": "main",
+          "revision": "b1aaf2fb0f7754bc274a5b539d5fe94a9e92fa77",
+          "version": null
+        }
+      },
+      {
         "package": "Version",
         "repositoryURL": "https://github.com/mxcl/Version",
         "state": {
           "branch": null,
           "revision": "a94b48f36763c05629fc102837398505032dead9",
           "version": "2.0.0"
-        }
-      },
-      {
-        "package": "XcodeProj",
-        "repositoryURL": "https://github.com/tuist/XcodeProj.git",
-        "state": {
-          "branch": null,
-          "revision": "aa2a42c7a744ca18b5918771fdd6cf40f9753db5",
-          "version": "8.6.0"
         }
       },
       {

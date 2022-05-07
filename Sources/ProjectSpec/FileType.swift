@@ -7,7 +7,7 @@
 
 import Foundation
 import JSONUtilities
-import enum XcodeProj.BuildPhase
+import enum SwiftXcodeProj.BuildPhase
 
 public struct FileType: Equatable {
 

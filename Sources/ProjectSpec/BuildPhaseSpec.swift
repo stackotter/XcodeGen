@@ -6,7 +6,7 @@
 //
 
 import Foundation
-import XcodeProj
+import SwiftXcodeProj
 import JSONUtilities
 
 public enum BuildPhaseSpec: Equatable {
