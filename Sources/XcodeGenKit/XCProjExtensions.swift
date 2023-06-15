@@ -1,6 +1,6 @@
 import Foundation
 import PathKit
-import XcodeProj
+import SwiftXcodeProj
 
 extension PBXFileElement {
     public var nameOrPath: String {

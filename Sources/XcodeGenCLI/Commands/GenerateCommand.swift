@@ -3,7 +3,7 @@ import PathKit
 import ProjectSpec
 import SwiftCLI
 import XcodeGenKit
-import XcodeProj
+import SwiftXcodeProj
 import Version
 
 class GenerateCommand: ProjectCommand {

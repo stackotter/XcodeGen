@@ -1,6 +1,6 @@
 import Foundation
 import JSONUtilities
-import XcodeProj
+import SwiftXcodeProj
 
 public struct AggregateTarget: ProjectTarget {
     public var name: String

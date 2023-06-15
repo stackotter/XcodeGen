@@ -2,7 +2,7 @@ import Foundation
 import JSONUtilities
 import PathKit
 import ProjectSpec
-import XcodeProj
+import SwiftXcodeProj
 import Yams
 
 public class ProjectGenerator {

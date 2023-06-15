@@ -1,6 +1,6 @@
 import Foundation
 import ProjectSpec
-import XcodeProj
+import SwiftXcodeProj
 
 public enum SettingsPresetFile {
     case config(ConfigType)

@@ -1,7 +1,7 @@
 import PathKit
 import ProjectSpec
 import Spectre
-import XcodeProj
+import SwiftXcodeProj
 import XCTest
 import TestSupport
 import Version
