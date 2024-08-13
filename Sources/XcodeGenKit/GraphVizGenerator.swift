@@ -1,4 +1,3 @@
-import DOT
 import Foundation
 import GraphViz
 import ProjectSpec
@@ -14,7 +13,7 @@ extension Dependency {
     }
 }
 
-extension Dependency.DependencyType: CustomStringConvertible {
+extension Dependency.DependencyType: Swift.CustomStringConvertible {
     public var description: String {
         switch self {
         case .bundle: return "bundle"
