@@ -1,10 +1,10 @@
-// swift-tools-version:5.0
+// swift-tools-version:5.1
 
 import PackageDescription
 
 let package = Package(
     name: "XcodeGen",
-    platforms: [.macOS(.v10_13)],
+    platforms: [.macOS(.v10_15)],
     products: [
         .executable(name: "xcodegen", targets: ["XcodeGen"]),
         .library(name: "XcodeGenKit", targets: ["XcodeGenKit"]),
@@ -19,7 +19,7 @@ let package = Package(
         .package(url: "https://github.com/stackotter/SwiftXcodeProj.git", from: "8.10.1"),
         .package(url: "https://github.com/jakeheis/SwiftCLI.git", from: "6.0.3"),
         .package(url: "https://github.com/mxcl/Version", from: "2.0.0"),
-        .package(url: "https://github.com/SwiftDocOrg/GraphViz.git", .exact("0.2.0")),
+        .package(url: "https://github.com/wabiverse/GraphViz.git", from: "0.5.0"),
     ],
 
     targets: [
