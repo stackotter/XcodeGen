@@ -1,6 +1,7 @@
 import Foundation
 import GraphViz
 import ProjectSpec
+import DOT
 
 extension Dependency {
     var graphVizName: String {
